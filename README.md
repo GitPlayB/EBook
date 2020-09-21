@@ -85,6 +85,6 @@ EBooks to read
 
 #### 杂（Miscellaneous）
 - [x] 浪潮之巅 - 吴军
-- [x] 看见 - 柴静 
+- [ ] 看见 - 柴静 
 - [x] 一网打尽 (The Everything Store) - Brad Stone
 - [x] 追寻生命的意义 - 维克多·弗兰克 
