@@ -33,6 +33,7 @@ Excerpt From: W. Richard Stevens. “TCP/IP Illustrated.” Apple Books.
 - [ ] Thinking in Java, 4th edition - Bruce Eckel
 - [ ] 深入理解Java虚拟机 JVM高级特性与最佳实践（第二版） - 周志华
 - [ ] JAVA并发编程实践 - Brian Goetz, Tim Peierls...
+- [ ] JAVA Concurrency in Practice.0321349601 - Brian Goetz, Tim Peierls...
 - [ ] Core Java Volume I/II, 10th edition - Cay S. Horstmann
 
 
@@ -121,6 +122,9 @@ Excerpt From: W. Richard Stevens. “TCP/IP Illustrated.” Apple Books.
 #### 经济
 
 #### 政治
+- [ ] 乔良 & 王湘穗 - 超限战 (2014, 长江文艺出版社)
+- [ ] (世纪人文系列丛书·世纪前沿) 本尼迪克特·安德森 - 想象的共同体_ 民族主义的起源与散布 (2005, 上海人民出版社)
+
 
 #### 语言
 
