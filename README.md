@@ -58,7 +58,7 @@ EBooks to read
 - [ ] Getting Started with NoSQL
 
 #### 前端（Front-end）
-- Eloquent_JavaScript, 3rd edition - Marijn Haverbeke
+- [ ] Eloquent_JavaScript, 3rd edition - Marijn Haverbeke
 
 #### 机器学习（ML）
 - [ ] Learning TensorFlow - Tom Hope, Yehezkel S. Resheff & Itay Lieder
