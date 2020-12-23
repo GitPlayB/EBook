@@ -25,8 +25,6 @@ EBooks to read
 #### 网络（Network）
 - [ ] TCP-IP Illustrated, Volume 1, 2nd Edition - Kevin R. Fall & W. Richard Stevens
 - [ ] TCP-IP-Illustrated-Volume-2-the-Implementation - W. Richard Stevens & Gary R. Wright
-
-Excerpt From: W. Richard Stevens. “TCP/IP Illustrated.” Apple Books. 
 - [ ] peepcode-git - Scott Chacon
 
 #### Java
@@ -97,23 +95,16 @@ Excerpt From: W. Richard Stevens. “TCP/IP Illustrated.” Apple Books.
 - [ ] 目送 - 龙应台
 
 
-
-#### 历史
-- [ ] 人类简史 - 尤瓦尔·赫拉利
-- [ ] 时间简史 - 史蒂芬·霍金
+#### 社会学
+- [ ] 社会契约论——卢梭
 
 
 
-##### 人物传记（Autobiography）
+#### 人物传记（Autobiography）
 - [x] 鞋狗(Shoe Dog) - 菲尔·奈特
 - [ ] 蛤蟆的油 - 黑泽明（之前的不完整，再读一遍）
 - [x] 渴望生活（梵高传） - 欧文·斯通
 
-##### 中国
-
-##### 欧洲
-
-##### 美国
 
 #### 哲学与心理学
 
@@ -128,11 +119,23 @@ Excerpt From: W. Richard Stevens. “TCP/IP Illustrated.” Apple Books.
 
 #### 语言
 
+#### 历史
+- [ ] 人类简史 - 尤瓦尔·赫拉利
+- [ ] 时间简史 - 史蒂芬·霍金
+
+##### 中国
+
+##### 欧洲
+
+##### 美国
+
+---
 
 ### 点心（biscuit）
 
 #### 工具人读的工具书
 - [ ] 拖延心理学 - Jane B. Burka, Lenora M. Yuen
+- [ ] 关键对话2nd（Crucial Conversations: Tools for talking when stakes are high）
 
 #### 杂（Miscellaneous）
 - [x] 浪潮之巅 - 吴军
